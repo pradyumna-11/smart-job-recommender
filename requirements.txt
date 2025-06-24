@@ -1,0 +1,9 @@
+pdfminer.six
+spacy
+pandas
+bs4
+scikit-learn
+streamlit
+matplotlib
+seaborn
+datetime
